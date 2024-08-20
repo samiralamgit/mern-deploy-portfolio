@@ -44,7 +44,7 @@ const Contact = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <h3 className='text-center' style={{ color: 'white' }}>Feel free to reach out to me for any questions or opportunities!</h3>
+                        <h3 className='text-center' style={{ color: '#b3c6d9' }}>Feel free to reach out to me for any questions or opportunities!</h3>
                     </div>
                 </div>
                 <div className='row mt-4 justify-content-center align-items-center'>
@@ -52,9 +52,9 @@ const Contact = () => {
                         <div className='card p-4'>
                             <div className='row'>
                                 <div className='col text-center icons'>
-                                    <a target='_blank' href='https://www.instagram.com/isamir_alam' className='insta'><FaInstagram /></a>
+                                    <a target='_blank' rel="noreferrer" href='https://www.instagram.com/isamir_alam' className='insta'><FaInstagram /></a>
                                     <Link target='_blank' to='https://www.facebook.com/samir.alam.543792' className='facebook'><FaFacebook /></Link>
-                                    <a target='_blank' href='https://www.linkedin.com/in/samir-alam-51b240216' className='linkedin'><FaLinkedin /></a>
+                                    <a target='_blank' rel="noreferrer" href='https://www.linkedin.com/in/samir-alam-51b240216' className='linkedin'><FaLinkedin /></a>
                                     <Link target='_blank' to='https://twitter.com/isamiralam' className='twitter'><FaSquareXTwitter /></Link>
                                 </div>
                             </div>

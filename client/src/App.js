@@ -1,6 +1,6 @@
 import './App.css';
-import Footer from './components/layout/Footer';
-import Navbar from './components/layout/Navbar';
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 import AboutPage from './pages/AboutPage';
 import Contact from './pages/Contact';
 import Education from './pages/Education';

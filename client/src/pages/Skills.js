@@ -14,6 +14,10 @@ import { SiPostman } from "react-icons/si";
 import { FaRegCopyright } from "react-icons/fa";
 import { FaDatabase } from "react-icons/fa6";
 import { FaJava } from "react-icons/fa6";
+import { IoLogoFirebase } from "react-icons/io5";
+import { SiNextdotjs } from "react-icons/si";
+import { FaPoop } from "react-icons/fa6";
+import { SiTailwindcss } from "react-icons/si";
 
 const Skills = () => {
     return (
@@ -27,8 +31,8 @@ const Skills = () => {
                     </div>
                     <div className='row'>
                         <div className='col'>
-                            <h3 className='text-center' style={{ color: 'white' }}>Here are some of my skills on which I have been working on for the</h3>
-                            <h3 className='text-center' style={{ color: 'white' }}>past 2 years.</h3>
+                            <h3 className='text-center' style={{ color: '#b3c6d9' }}>Here are some of my skills on which I have been working on for the</h3>
+                            <h3 className='text-center' style={{ color: '#b3c6d9' }}>past 2 years.</h3>
                         </div>
                     </div>
                     <div className='row mt-4 justify-content-center align-items-center'>
@@ -38,10 +42,11 @@ const Skills = () => {
                                 <div className='row'>
                                     <div className='col d-flex flex-wrap justify-content-center align-items-center'>
                                         <h3 className='skill-items m-2'><FaReact style={{ color: '#61dbfb' }} />React Js</h3>
+                                        <h3 className='skill-items m-2'><SiNextdotjs style={{ color: '#fff' }} className='me-1' />Next Js</h3>
                                         <h3 className='skill-items m-2' ><IoLogoHtml5 style={{ color: '#e34c26' }} />HTML</h3>
                                         <h3 className='skill-items m-2'><IoLogoCss3 style={{ color: '#264de4' }} />CSS</h3>
-                                        <h3 className='skill-items m-2'><IoLogoJavascript style={{ color: 'orange' }} />Javascript</h3>
                                         <h3 className='skill-items m-2'><FaBootstrap style={{ color: '#6528e0' }} />Bootstrap</h3>
+                                        <h3 className='skill-items m-2'><SiTailwindcss style={{ color: '#87CEEB' }} />Tailwind</h3>
                                     </div>
                                 </div>
                             </div>
@@ -53,6 +58,8 @@ const Skills = () => {
                                     <div className='col d-flex flex-wrap justify-content-center align-items-center'>
                                         <h3 className='skill-items m-2'><FaNodeJs style={{ color: '#3c873a' }} />Node Js</h3>
                                         <h3 className='skill-items m-2'><SiExpress style={{ color: '#68a063' }} />Express Js</h3>
+                                        <h3 className='skill-items m-2'><IoLogoFirebase style={{ color: '#FFCB2B' }} />Firebase</h3>
+                                        <h3 className='skill-items m-2'><IoLogoJavascript style={{ color: '#FFCB2B' }} />Javascript</h3>
                                         <h3 className='skill-items m-2'><SiMongodb style={{ color: '#4DB33D' }} />MongoDB</h3>
                                     </div>
                                 </div>
@@ -65,11 +72,12 @@ const Skills = () => {
                                 <h2 className='text-center'>Programming</h2>
                                 <div className='row'>
                                     <div className='col d-flex flex-wrap justify-content-center align-items-center'>
-                                        <h3 className='skill-items m-2'>C</h3>
-                                        <h3 className='skill-items m-2'>C++</h3>
+                                        <h3 className='skill-items m-2 pe-4 ps-4'>C</h3>
+                                        <h3 className='skill-items m-2 pe-4 ps-4'>C++</h3>
                                         {/* <h3 className='skill-items m-2'><FaJava style={{ color: 'orange' }} />Java</h3> */}
-                                        <h3 className='skill-items m-2'><FaDatabase style={{ color: '#fafbfc' }} />DSA</h3>
-                                        <h3 className='skill-items m-2'><IoLogoJavascript style={{ color: 'orange' }} />Javascript</h3>
+                                        <h3 className='skill-items m-2 pe-4 ps-4'><FaDatabase style={{ color: '#fafbfc' }} />DSA</h3>
+                                        {/* <h3 className='skill-items m-2'><IoLogoJavascript style={{ color: 'orange' }} />Javascript</h3> */}
+                                        <h3 className='skill-items m-2'>OOPs</h3>
                                     </div>
                                 </div>
                             </div>

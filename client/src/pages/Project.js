@@ -11,7 +11,7 @@ const Project = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <h3 className='text-center' style={{ color: 'white' }}>I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.</h3>
+                        <h3 className='text-center' style={{ color: '#b3c6d9' }}>I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.</h3>
                     </div>
                 </div>
                 <div className='row mt-4 justify-content-center align-items-center'>
@@ -33,7 +33,7 @@ const Project = () => {
                                 </div>
                             </div>
                             <h3 className='ms-2'>Ecommerce Web App</h3>
-                            <h6 className='ms-2 t-color'>16 oct - 20 Nov 2023<a className='ms-5' href='https://askart.onrender.com' target='_blank'>Link</a></h6>
+                            <h6 className='ms-2 t-color'>16 oct - 20 Nov 2023<a className='ms-5' href='https://askart.onrender.com/' target='_blank'>Link</a></h6>
                         </div>
                     </div>
                     <div className='col-md-4'>

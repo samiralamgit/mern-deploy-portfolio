@@ -11,7 +11,7 @@ const Education = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <h3 className='text-center' style={{ color: 'white' }}>My education has been a journey of self-discovery and growth. My educational details are as follows.</h3>
+                        <h3 className='text-center' style={{ color: '#b3c6d9' }}>My education has been a journey of self-discovery and growth. My educational details are as follows.</h3>
                     </div>
                 </div>
                 <div className='row mt-4 justify-content-center align-items-center'>

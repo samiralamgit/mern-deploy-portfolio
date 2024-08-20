@@ -11,7 +11,7 @@ const Experience = () => {
                 </div>
                 <div className='row'>
                     <div className='col'>
-                        <h3 className='text-center' style={{ color: 'white' }}>My work experience as a software engineer and Coder.</h3>
+                        <h3 className='text-center' style={{ color: '#b3c6d9' }}>My work experience as a software engineer and Coder.</h3>
                     </div>
                 </div>
                 <div className='row mt-4 justify-content-center align-items-center'>
@@ -48,6 +48,7 @@ const Experience = () => {
                                     <h5 className='m-2 t-color'>• 5⭐ at HakerRank <a className='ms-2' href='https://www.hackerrank.com/profile/samiralam5533' target='_blank'>Link</a></h5>
                                     <h5 className='m-2 t-color'>• 50+ on GeeksforGeeks <a className='ms-2' href='https://auth.geeksforgeeks.org/user/samiralam5533/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user' target='_blank'>Link</a></h5>
                                     <h5 className='m-2 t-color'>• 50+ on LeetCode <a className='ms-2' href='https://leetcode.com/samir_76/' target='_blank'>Link</a></h5>
+                                    <h5 className='m-2 t-color'>• 50+ on CodingNinja <a className='ms-2' href='https://www.codingninjas.com/studio/profile/sam_coder' target='_blank'>Link</a></h5>
                                 </div>
                             </div>
                         </div>
